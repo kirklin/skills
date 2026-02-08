@@ -40,3 +40,54 @@
 [submodule "vendor/vuejs-ai"]
 	path = vendor/vuejs-ai
 	url = https://github.com/vuejs-ai/skills
+[submodule "sources/boot-nextjs"]
+	path = sources/boot-nextjs
+	url = https://github.com/kirklin/boot-nextjs
+[submodule "sources/boot-electron"]
+	path = sources/boot-electron
+	url = https://github.com/kirklin/boot-electron
+[submodule "sources/boot-react-native"]
+	path = sources/boot-react-native
+	url = https://github.com/kirklin/boot-react-native
+[submodule "sources/boot-vue"]
+	path = sources/boot-vue
+	url = https://github.com/kirklin/boot-vue
+[submodule "sources/boot-backend-go-clean"]
+	path = sources/boot-backend-go-clean
+	url = https://github.com/kirklin/boot-backend-go-clean
+[submodule "sources/boot-ts"]
+	path = sources/boot-ts
+	url = https://github.com/kirklin/boot-ts
+[submodule "sources/boot-taro-react"]
+	path = sources/boot-taro-react
+	url = https://github.com/kirklin/boot-taro-react
+[submodule "sources/boot-ink"]
+	path = sources/boot-ink
+	url = https://github.com/kirklin/boot-ink
+[submodule "sources/boot-lynx"]
+	path = sources/boot-lynx
+	url = https://github.com/kirklin/boot-lynx
+[submodule "sources/boot-mcp"]
+	path = sources/boot-mcp
+	url = https://github.com/kirklin/boot-mcp
+[submodule "sources/boot-webext"]
+	path = sources/boot-webext
+	url = https://github.com/kirklin/boot-webext
+[submodule "sources/boot-unplugin"]
+	path = sources/boot-unplugin
+	url = https://github.com/kirklin/boot-unplugin
+[submodule "sources/boot-flask"]
+	path = sources/boot-flask
+	url = https://github.com/kirklin/boot-flask
+[submodule "sources/boot-vant"]
+	path = sources/boot-vant
+	url = https://github.com/kirklin/boot-vant
+[submodule "sources/boot-slidev"]
+	path = sources/boot-slidev
+	url = https://github.com/kirklin/boot-slidev
+[submodule "sources/boot-nuxt3"]
+	path = sources/boot-nuxt3
+	url = https://github.com/kirklin/boot-nuxt3
+[submodule "sources/boot-react"]
+	path = sources/boot-react
+	url = https://github.com/kirklin/boot-react

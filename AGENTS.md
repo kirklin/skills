@@ -29,8 +29,16 @@ For projects that **already maintain their own skills**. We clone their repo as 
 - **Workflow:** Pull updates → Copy specified skills (with optional renaming)
 - **Source:** `vendor/{project}/skills/{skill-name}/`
 - **Config:** Each vendor specifies which skills to sync and their output names in `meta.ts`
-
-### Type 3: Hand-written Skills
+ 
+### Type 3: Boot Templates (`sources/boot-*`)
+ 
+For user's personal starter templates. These are generated from `sources/boot-*` repositories.
+ 
+- **Projects:** boot-nextjs, boot-vue, boot-react, etc.
+- **Workflow:** Clone → Generate single reference file from README
+- **Source:** `sources/boot-{template}/README.md`
+ 
+### Type 4: Hand-written Skills
 
 For skills that are written by Kirk Lin with his preferences, experience, tastes and best practices.
 
