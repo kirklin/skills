@@ -29,7 +29,6 @@ export const submodules = {
   "boot-webext": "https://github.com/kirklin/boot-webext",
   "boot-unplugin": "https://github.com/kirklin/boot-unplugin",
   "boot-flask": "https://github.com/kirklin/boot-flask",
-  "boot-flutter": "https://github.com/kirklin/boot-flutter",
   "boot-vant": "https://github.com/kirklin/boot-vant",
   "boot-slidev": "https://github.com/kirklin/boot-slidev",
   "boot-nuxt3": "https://github.com/kirklin/boot-nuxt3",
