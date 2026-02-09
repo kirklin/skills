@@ -1,5 +1,11 @@
 ---
-description: A comprehensive guide to implementing Clean Architecture in software projects.
+name: go-clean-architecture
+description: A comprehensive guide to implementing Clean Architecture in software projects, based on the boot-backend-go-clean template.
+license: MIT
+metadata:
+  author: Kirk Lin
+  version: "1.0.0"
+  source: Based on boot-backend-go-clean
 ---
 
 # Clean Architecture
